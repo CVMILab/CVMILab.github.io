@@ -1,4 +1,6 @@
-### Hi there 👋
+### Homepage for Computer Vision and Machine Intelligence Laboratory at Kyungpook National University
+
+
 
 <!--
 **CVMILab1/CVMILab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
